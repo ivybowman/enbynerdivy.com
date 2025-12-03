@@ -20,7 +20,7 @@ body {
 .bio-container {
     background: #1c1c1f;
     box-shadow:
-        10px 10px 200px -25px rgba(255, 210, 23, 0.35),
+        10px 10px 200px -25px rgba(209, 0, 224, 0.35),
         -20px 20px 200px -25px rgba(90, 199, 255, 0.35),
         30px -30px 200px -25px rgba(255, 0, 0, 0.35),
         -40px -40px 200px -25px rgba(0, 255, 0, 0.35),
