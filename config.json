@@ -3,14 +3,16 @@
     "name": "Ivy - EnbyNerdIvy",
     "tagline": "she/they - Queer & Neurodivergent Content Creator",
     "gravatarEmail": "ivy@enbynerdivy.com",
-    "bio": [""]
+    "bio": [
+      "My favorite color is pink, I have a passion for IT, and I'm working towards a cybersecurity career."
+    ]
   },
   "social": {
     "twitch": "https://twitch.tv/enbynerdivy",
     "youtube": "https://youtube.com/@enbynerdivy",
-    "wordpress": "https://profiles.wordpress.org/webdevmattcrom/",
-    "github": "https://github.com/mathetos/",
-    "bluesky": "https://bsky.app/profile/mattcromwell.bsky.social",
+    "instagram": "https://instagram.com/EnbyNerdIvy",
+    "github": "https://github.com/ivybowman/",
+    "bluesky": "https://bsky.app/profile/enbynerdivy.com",
     "x": "https://x.com/enbynerdivy",
     "email": "mailto:ivy@enbynerdivy.com"
   },
@@ -20,10 +22,6 @@
       "url": "https://ivybowman.com"
     }
   ],
-  "blog": {
-    "rssFeed": "https://www.enbynerdivy.com/blogsomedaymaybe/",
-    "wordCount": 75
-  },
   "support": {
     "buttonText": "Donate Here (NOTICE: Non-Refundable)",
     "url": "https://streamelements.com/enbynerdivyalt/tip"
