@@ -1,0 +1,54 @@
+{
+  "profile": {
+    "name": "Matt Cromwell",
+    "tagline": "Helping WordPress professionals build better businesses",
+    "gravatarEmail": "matt@wpproducttalk.com",
+    "bio": [
+      "I help product businesses turn customer insight into better experiences that keep people renewing year after year.",
+      "I co-founded GiveWP, growing it into the leading online donations platform for WordPress. After its acquisition by StellarWP, I became Senior Director of Customer Experience, scaling those same data-driven systems across flagship brands like LearnDash, KadenceWP, and The Events Calendar.",
+      "Beyond my formal roles, I co-host WP Product Talk, a weekly show where WordPress founders share what works (and what doesn't) in growing sustainable products. I've also spoken at WordCamps and CloudFest EU, helping teams connect customer experience with product strategy so every decision moves the business forward.",
+      "Over a decade in customer experience and product growth, my focus hasn't changed: connect what customers feel with how teams build — and turn that alignment into meaningful, measurable growth."
+    ]
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/in/mattcromwell",
+    "x": "https://x.com/learnwithmattc",
+    "wordpress": "https://profiles.wordpress.org/webdevmattcrom/",
+    "youtube": "https://youtube.com/@wpproducttalk",
+    "github": "https://github.com/mathetos/",
+    "bluesky": "https://bsky.app/profile/mattcromwell.bsky.social",
+    "email": "https://mattcromwell.com/contact"
+  },
+  "links": [
+    {
+      "title": "WP Product Talk Podcast",
+      "url": "https://wpproducttalk.com"
+    },
+    {
+      "title": "StellarWP",
+      "url": "https://stellarwp.com"
+    },
+    {
+      "title": "GiveWP",
+      "url": "https://givewp.com"
+    },
+    {
+      "title": "My Writing",
+      "url": "https://mattcromwell.com"
+    }
+  ],
+  "blog": {
+    "rssFeed": "https://www.mattcromwell.com/feed/",
+    "wordCount": 75
+  },
+  "support": {
+    "buttonText": "Buy Me a Coffee ☕️",
+    "url": "https://www.buymeacoffee.com/mattcromwell"
+  },
+  "contact": {
+    "buttonText": "Contact Me ✉️",
+    "url": "https://mattcromwell.com/contact"
+  },
+  "theme": "dark",
+  "gravatarHovercard": true
+} 
