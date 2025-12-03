@@ -4,15 +4,17 @@
     "tagline": "she/they - Queer & Neurodivergent Content Creator",
     "gravatarEmail": "ivy@enbynerdivy.com",
     "bio": [
-      "My favorite color is pink, I have a passion for IT, and I'm working towards a cybersecurity career."
+      "My favorite color is pink, I have a passion for IT, and I'm working towards a cybersecurity career.",
+      "🇪🇭From the river to the sea!!🇪🇭"
     ]
   },
   "social": {
-    "twitch": "https://twitch.tv/enbynerdivy",
+    "twitchtv": "https://twitch.tv/enbynerdivy",
     "youtube": "https://youtube.com/@enbynerdivy",
     "instagram": "https://instagram.com/EnbyNerdIvy",
     "github": "https://github.com/ivybowman/",
     "bluesky": "https://bsky.app/profile/enbynerdivy.com",
+    "mastodon": "https://infosec.exchange/@ivybowman",
     "x": "https://x.com/enbynerdivy",
     "email": "mailto:ivy@enbynerdivy.com"
   },
